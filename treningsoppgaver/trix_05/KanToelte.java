@@ -1,0 +1,3 @@
+interface KanToelte {
+    void toelt();
+}

@@ -1,0 +1,3 @@
+interface KanPasse {
+    void pass();
+}
